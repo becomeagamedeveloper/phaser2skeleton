@@ -15,9 +15,9 @@ It can be useful during BecameAGameDeveloper meetups where you need something wo
 
 ## Setup a new project
 
-The idea is to fork this repository and create a new project based on this, which you and your team can work on, sharing the code with each other. To give your modifications to the team you do a commit and a push (they are git commands); to get other teammates' work, you do a pull (another git command).
+The idea is to fork this repository (one for per team) and create a new project based on this, which you and your team can work on, sharing the code with each other. To give your modifications to the team you do a commit and a push (they are git commands); to get other teammates' work, you do a pull (another git command).
 
-1. Fork the repository: after having logged in on GitHub, on top of this page use the "fork" command. It creates a copy of this project owned by you (the process is completely online and quite straightforward).
+1. Fork the repository: after having logged in on GitHub, on top of this page use the "fork" command. It creates a copy of this project owned by you (the process is completely online and quite straightforward. This must be done by only one member of the team: other teammates will fetch the project from that.
 
 2. Download your brand new project on your workstation. To do this you need to issue a git command in your command prompt. To create the complete Git command, click on the green button on top of this page named "Clone or download" then click on the copy icon near the url inside the dialog just opened. It will copy the url in the clipboard for your convenience.
 Then, open a command prompt on your workstation (exact method depends on your operative system), go into your preferred development folder (for example ~/devel on Linux) and issue this command:
