@@ -30,9 +30,13 @@ And voilà! You have your brand new Phaser project on your workstation (Git crea
 ```
 python --version
 ```
-If it answer something like ```Python 2.7.12```, hurra! You're ready to go. Assure you're in the Phaser Skeleton root directory (the one you created with the git clone command above), than launch a minimal web server with the command:
+If it answer something like ```Python 2.7.12```, hurra! You're ready to go (if you have Python 3 it could work as well, more details below). Assure you're in the Phaser Skeleton root directory (the one you created with the git clone command above), than launch a minimal web server with the command:
 ```
 python -m SimpleHTTPServer
+```
+With Python 3 the command is:
+```
+python3 -m http.server
 ```
 then launch a web browser and open the URL:
 ```
