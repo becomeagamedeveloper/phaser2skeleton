@@ -56,6 +56,8 @@ If you haven't Python installed, you have a few choices.
   ```
   ws
   ```
+  3. Install a Chrome extension to have a built-in web server in your browser: https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en (thanks to Michele for this cool hint!).
+  
   ## Work and share the project with your team
 
   The idea is: everybody in the team works (hard!) writing code and creating whatever other files needed for your project (more on this later). 
